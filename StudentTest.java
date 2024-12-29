@@ -14,7 +14,7 @@ public class StudentTest {
 
 
 	public static void help() {
-		System.out.println("****Student Management System****");
+		System.out.println("****Teacher Management System****");
 		System.out.println(ADD_STUDENT + " to add a student.");
 		System.out.println(SHOW_STUDENT_LIST + " to show student list.");
 		System.out.println(SEARCHSTUDENT + " to search the student.");
